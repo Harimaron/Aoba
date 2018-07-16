@@ -1,10 +1,10 @@
-![Aoba](https://i.imgur.com/cBJ7CAH.png)
+![Aoba](https://i.imgur.com/UnDR7CQ.png)
 
 Welcome!
 -------------
 Here is a summary of the resources that are or have been useful to me.
 
-![Management](https://i.imgur.com/UnDR7CQ.png)
+![Management](https://i.imgur.com/u9yiVsf.png)
 
 *Applications that helped me to organize myself or organize various projects, whether alone or in a team.*
 
@@ -30,7 +30,6 @@ Manage your GitHub Issues and Pull Requests across Multiple Repos in a Single Un
 
 
 ![Communication](https://i.imgur.com/NXUSBLj.png)
-## Management
 
 *Applications that helped me to organize myself or organize various projects, whether alone or in a team.*
 
