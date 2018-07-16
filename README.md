@@ -13,19 +13,18 @@ Trello is the easy, free, flexible, and visual way to manage your projects and o
 
 ### [Google Keep](https://www.google.com/keep/)
 
-More or less identical to Trello, but more private oriented. Google Keep is accessible and convenient to note anything you do not want to lose sight of, even on your phone.
+Capture what's on your mind.
 
 ### [GitHub Project Board](https://help.github.com/articles/creating-a-project-board/)
 
-I know there are a lot of ways to do it, but I find this one very convenient. Using a lot GitHub during my classes, I think it's the easiest and most effective way to coordinate your team on a project.
+Project boards on GitHub help you organize and prioritize your work. You can create project boards for specific feature work, comprehensive roadmaps, or even release checklists. With project boards, you have the flexibility to create customized workflows that suit your needs.
 
 ### [Waffle.io](https://waffle.io/)
 
-I have not tried it yet but it looks similar to GitHub and works with it.
+Track your GitHub issues and pull requests with an automated workflow.
 
 ### [Codetree](https://codetree.com/)
 
-I have not tried it yet but it looks similar to GitHub and works with it.
-
+Manage your GitHub Issues and Pull Requests across Multiple Repos in a Single Unified View.
 
 *To be continued...* 
