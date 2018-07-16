@@ -4,7 +4,7 @@ Welcome!
 -------------
 Here is a summary of the resources that are or have been useful to me.
 
-![Management](https://i.imgur.com/UaLSMcz.png)
+![Management](https://i.imgur.com/UnDR7CQ.png)
 
 *Applications that helped me to organize myself or organize various projects, whether alone or in a team.*
 
