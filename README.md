@@ -3,10 +3,9 @@ Welcome!
 
 
 Here is a summary of the resources that are or have been useful to me.
-
-<space><space>
+<br/>
 ![Beige](https://i.imgur.com/mD3dUTM.png)
-<space><space>
+
 Management
 -------------
 
