@@ -4,11 +4,11 @@ Welcome!
 -------------
 Here is a summary of the resources that are or have been useful to me.
 
-![Banner](https://i.imgur.com/QBKzUJH.png)
+![BannerOne](https://i.imgur.com/QBKzUJH.png)
 Management
 -------------
 *Applications that helped me to organize myself or organize various projects, whether alone or in a team.*
-![Banner](https://i.imgur.com/Yr2oIlu.png)
+![BannerTwo](https://i.imgur.com/Yr2oIlu.png)
 
 ### [Trello](https://trello.com/)
 
@@ -31,11 +31,12 @@ Track your GitHub issues and pull requests with an automated workflow.
 Manage your GitHub Issues and Pull Requests across Multiple Repos in a Single Unified View.
 
 
-![Banner](https://i.imgur.com/QBKzUJH.png)
+![BannerTwo](https://i.imgur.com/Yr2oIlu.png)
 Communication
 -------------
 
 *Applications that helped me to organize myself or organize various projects, whether alone or in a team.*
+![BannerOne](https://i.imgur.com/QBKzUJH.png)
 
 ### [Trello](https://trello.com/)
 
