@@ -15,7 +15,7 @@ Applications that helped me to organize myself or organize various projects, whe
 
 Trello is the easy, free, flexible, and visual way to manage your projects and organize anything.
 
-### [Google Keep](https://www.google.be/keep/)
+### [Google Keep](https://www.google.com/keep/)
 
 More or less identical to Trello, but more private oriented. Google Keep is accessible and convenient to note anything you do not want to lose sight of, even on your phone.
 
