@@ -1,4 +1,4 @@
-![Aoba](https://i.imgur.com/bmG4pMH.png)
+![Aoba](https://i.imgur.com/oPoMZHn.png)
 
 Welcome!
 -------------
