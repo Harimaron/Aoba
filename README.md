@@ -19,5 +19,13 @@ More or less identical to Trello, but more private oriented. Google Keep is acce
 
 I know there are a lot of ways to do it, but I find this one very convenient. Using a lot GitHub during my classes, I think it's the easiest and most effective way to coordinate your team on a project.
 
+### [Waffle.io](https://waffle.io/)
+
+I have not tried it yet but it looks similar to GitHub and works with it.
+
+### [Codetree](https://codetree.com/)
+
+I have not tried it yet but it looks similar to GitHub and works with it.
+
 
 *To be continued...* 
