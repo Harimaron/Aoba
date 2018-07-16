@@ -4,8 +4,8 @@ Welcome!
 
 Here is a summary of the resources that are or have been useful to me.
 
-----------
 ![Beige](https://i.imgur.com/mD3dUTM.png)
+
 Management
 -------------
 
