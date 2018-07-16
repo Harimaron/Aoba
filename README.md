@@ -11,7 +11,8 @@ Management
 *Applications that helped me to organize myself or organize various projects, whether alone or in a team.*
 ![Banner](https://i.imgur.com/Yr2oIlu.png)
 
-### [Trello](https://trello.com/)
+Trello
+-------------
 
 Trello is the easy, free, flexible, and visual way to manage your projects and organize anything.
 
