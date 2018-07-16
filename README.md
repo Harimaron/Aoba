@@ -15,4 +15,9 @@ Trello is the easy, free, flexible, and visual way to manage your projects and o
 
 More or less identical to Trello, but more private oriented. Google Keep is accessible and convenient to note anything you do not want to lose sight of, even on your phone.
 
+### [GitHub Project Board](https://help.github.com/articles/creating-a-project-board/)
+
+I know there are a lot of ways to do it, but I find this very convenient. Using a lot GitHub during my classes, I think it's the easiest and most effective way to coordinate your team on a project.
+
+
 *To be continued...* 
