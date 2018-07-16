@@ -29,7 +29,7 @@ Track your GitHub issues and pull requests with an automated workflow.
 Manage your GitHub Issues and Pull Requests across Multiple Repos in a Single Unified View.
 
 
-![Communication](https://i.imgur.com/NXUSBLj.png)
+![Communication](https://i.imgur.com/k861ZDA.png)
 
 *Applications that helped me to organize myself or organize various projects, whether alone or in a team.*
 
