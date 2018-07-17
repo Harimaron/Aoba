@@ -8,9 +8,9 @@ Here is a summary of the resources that are or have been useful to me.
 
 1. **[Wireframe](#wireframe)**
 2. **[Color](#color)**
-3. **[Image Editor](#editor)**
-4. **[Free Images Library](#library)**
-5. **[Image Hosting](#hosting)**
+3. **[Editor](#editor)**
+4. **[Stock](#stock)**
+5. **[Uploader](#uploader)**
 
 ---
 
@@ -40,4 +40,17 @@ Generate perfect color combinations for your designs.
 
 Create color schemes with the color wheel or browse thousands of color combinations from the Kuler community.
 
+---
+
+## Editor
+
+**When it comes to changing the quality, color or size of an image, an editor is essential.**
+
+### [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
+
+If you can think it, you can make it with Photoshop CC, the world’s best imaging and design app.
+
+### [Photopea](https://www.photopea.com/)
+
+Open and edit PSD, XCF, Sketch (Photoshop, Gimp and Sketch) or any other image files. 
 
