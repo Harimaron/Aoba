@@ -8,7 +8,7 @@ Here is a summary of the resources that are or have been useful to me.
 
 ## Wireframe
 
-**This is where I start.**
+*This is where I start.*
 
 ### [Balsamiq](https://balsamiq.com/)
 
@@ -22,7 +22,7 @@ A simple wireframing tool that doesn't get in your way. Create and share simple 
 
 ## Color Picker
 
-**When I hesitate which colors to combine or that I look for a certain atmosphere, these sites help me.**
+*When I hesitate which colors to combine or that I look for a certain atmosphere, these sites help me.*
 
 ### [Adobe Color CC](https://color.adobe.com/create/color-wheel/)
 
@@ -36,7 +36,7 @@ Generate perfect color combinations for your designs.
 
 ## Image Editor
 
-**When it comes to changing the quality, color or size of an image, an editor is essential.**
+*When it comes to changing the quality, color or size of an image, an editor is essential.*
 
 ### [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
 
@@ -50,7 +50,7 @@ Open and edit PSD, XCF, Sketch (Photoshop, Gimp and Sketch) or any other image f
 
 ## Image Library
 
-**There is a ton of images on the internet, but the free images are here.**
+*There is a ton of images on the internet, but the free images are here.*
 
 ### [Pexels](https://www.pexels.com/)
 
@@ -68,7 +68,7 @@ Beautiful, free images and photos that you can download and use for any project.
 
 ## Image Upload
 
-**If I have to host an image quickly, these sites are valuable to me.**
+*If I have to host an image quickly, these sites are valuable to me.*
 
 ### [Imgur](https://imgur.com/upload)
 
@@ -78,7 +78,7 @@ Browse or drag images here.
 
 ## Markdown
 
-**Editors, syntax, really useful.**
+*Editors, syntax, really useful.*
 
 ### [StackEdit](https://stackedit.io/editor)
 
@@ -88,7 +88,7 @@ Full-featured, open-source Markdown editor based on PageDown, the Markdown libra
 
 ## HTML
 
-**When I want to remember semantics.**
+*When I want to remember semantics.*
 
 *To fill.*
 
@@ -96,7 +96,7 @@ Full-featured, open-source Markdown editor based on PageDown, the Markdown libra
 
 ## CSS
 
-**Where I am most of the time, reading the framework docs or learning about keyframes.**
+*Where I am most of the time, reading the framework docs or learning about keyframes.*
 
 ### [Bootstrap](https://getbootstrap.com/)
 
@@ -134,7 +134,7 @@ A lightweight and modular front-end framework for developing fast and powerful w
 
 ## Resources
 
-**When I'm looking for something.**
+*When I'm looking for something.*
 
 ### [Front-End Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2018/)
 
@@ -148,7 +148,7 @@ The Front-End Checklist is an exhaustive list of all elements you need to have.
 
 ## Deploy Tool
 
-**If I need to put a website online.**
+*If I need to put a website online.*
 
 ### [GitHub Pages](https://pages.github.com/)
 
@@ -162,7 +162,7 @@ Simple, single-command web publishing. Publish HTML, CSS, and JS for free, witho
 
 ## Analys Tool
 
-**What is missing from my site to be perfect?**
+*What is missing from my site to be perfect?*
 
 ### [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
 
