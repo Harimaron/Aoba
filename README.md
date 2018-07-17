@@ -49,7 +49,6 @@ Codetree
 
 Manage your GitHub Issues and Pull Requests across Multiple Repos in a Single Unified View.
 
-----------
 
 ![Banner](https://i.imgur.com/Yr2oIlu.png)
 Communication
