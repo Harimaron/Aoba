@@ -193,3 +193,51 @@ Track your GitHub issues and pull requests with an automated workflow.
 ### [Codetree](https://codetree.com/)
 
 Manage your GitHub Issues and Pull Requests across Multiple Repos in a Single Unified View.
+
+---
+
+## Presentation
+
+*PowerPoint is getting old.*
+
+### [Google Slides](https://www.google.com/slides/about/)
+
+Create a new presentation and edit with others at the same time. Get stuff done with or without an internet connection.
+
+---
+
+## Communication
+
+*When sometimes I can not solve a problem, asking others is always a solution.*
+
+### [Ryver](https://ryver.com/)
+
+Ryver offers world-class team communications plus a powerful team task manager. It's a single integrated solution.
+
+### [Discord](https://discordapp.com/)
+
+Step up your game with a modern voice & text chat app. Crystal clear voice, multiple server and channel support, mobile apps, and more.
+
+---
+
+## Share
+
+*If me and my team have to share documents.*
+
+### [Dropbox](https://www.dropbox.com/)
+
+Dropbox brings your files together, in one central place. 
+
+### [Google Drive](https://www.google.com/drive/)
+
+Get access to files anywhere through secure cloud storage and file backup for your photos, videos, files and more with Google Drive.
+
+---
+
+## Career
+
+*Let's go!*
+
+### [Linkedin](https://www.linkedin.com/)
+
+Manage your professional identity. Build and engage with your professional network. Access knowledge, insights and opportunities.
