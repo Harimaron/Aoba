@@ -12,10 +12,12 @@ Management
 ![Banner](https://i.imgur.com/Yr2oIlu.png)
 
 Trello
--------------
+----------
 (https://trello.com/)
 
 Trello is the easy, free, flexible, and visual way to manage your projects and organize anything.
+
+----------
 
 Google Keep
 -------------
@@ -23,11 +25,15 @@ Google Keep
 
 Capture what's on your mind.
 
+----------
+
 GitHub Project Board
 -------------
 (https://help.github.com/articles/creating-a-project-board/)
 
 Project boards on GitHub help you organize and prioritize your work. You can create project boards for specific feature work, comprehensive roadmaps, or even release checklists. With project boards, you have the flexibility to create customized workflows that suit your needs.
+
+----------
 
 Waffle
 -------------
@@ -35,12 +41,15 @@ Waffle
 
 Track your GitHub issues and pull requests with an automated workflow.
 
+----------
+
 Codetree
 -------------
 (https://codetree.com/)
 
 Manage your GitHub Issues and Pull Requests across Multiple Repos in a Single Unified View.
 
+----------
 
 ![Banner](https://i.imgur.com/Yr2oIlu.png)
 Communication
