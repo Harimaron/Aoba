@@ -4,21 +4,6 @@ Welcome!
 -------------
 Here is a summary of the resources that are or have been useful to me.
 
-## Table of Contents
-
-1. **[Wireframe](#wireframe)**
-2. **[Color](#color)**
-3. **[Editor](#editor)**
-4. **[Stock](#stock)**
-5. **[Uploader](#uploader)**
-6. **[Markdown](#markdown)**
-7. **[HTML](#html)**
-8. **[CSS](#css)**
-9. **[Resources](#resources)**
-10. **[Host](#host)**
-11. **[Test](#test)**
-12. **[Management](#management)**
-
 ---
 
 ## Wireframe
