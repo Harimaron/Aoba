@@ -6,7 +6,7 @@ Here is a summary of the resources that are or have been useful to me.
 
 ## Table of Contents
 
-1. **[Wireframe](#wirefram)**
+1. **[Wireframe](#wireframe)**
 2. **[Color](#color)**
 3. **[Image Editor](#editor)**
 4. **[Free Images Library](#library)**
