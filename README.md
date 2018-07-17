@@ -20,7 +20,7 @@ A simple wireframing tool that doesn't get in your way. Create and share simple 
 
 ---
 
-## Color
+## Color Picker
 
 **When I hesitate which colors to combine or that I look for a certain atmosphere, these sites help me.**
 
@@ -34,7 +34,7 @@ Generate perfect color combinations for your designs.
 
 ---
 
-## Editor
+## Image Editor
 
 **When it comes to changing the quality, color or size of an image, an editor is essential.**
 
@@ -48,7 +48,7 @@ Open and edit PSD, XCF, Sketch (Photoshop, Gimp and Sketch) or any other image f
 
 ---
 
-## Stock
+## Image Library
 
 **There is a ton of images on the internet, but the free images are here.**
 
@@ -66,7 +66,7 @@ Beautiful, free images and photos that you can download and use for any project.
 
 ---
 
-## Uploader
+## Image Upload
 
 **If I have to host an image quickly, these sites are valuable to me.**
 
@@ -113,3 +113,57 @@ Materialize is a modern responsive CSS framework based on Material Design by Goo
 ### [Mini](https://minicss.org/)
 
 Mini.css is a tiny CSS framework designed to build quick, modern and responsive websites.
+
+### [MUI](https://www.muicss.com/)
+
+MUI is a lightweight CSS framework that follows Google's Material Design guidelines.  
+
+### [Semantic UI](https://semantic-ui.com/)
+
+Semantic is a development framework that helps create beautiful, responsive layouts using human-friendly HTML. 
+
+### [Skeleton](http://getskeleton.com/)
+
+A dead simple, responsive boilerplate.
+
+### [UIkit](https://getuikit.com/)
+
+A lightweight and modular front-end framework for developing fast and powerful web interfaces. 
+
+---
+
+## Resources
+
+**When I'm looking for something.**
+
+### [Front-End Developer Handbook](https://frontendmasters.com/books/front-end-handbook/2018/)
+
+This is a guide that anyone could use to learn about the practice of front-end development.
+
+### [Front-End Developer Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+
+The Front-End Checklist is an exhaustive list of all elements you need to have.
+
+---
+
+## Deploy Tool
+
+**If I need to put a website online.**
+
+### [GitHub Pages](https://pages.github.com/)
+
+Hosted directly from your GitHub repository. Just edit, push, and your changes are live.
+
+### [Surge](https://surge.sh/)
+
+Simple, single-command web publishing. Publish HTML, CSS, and JS for free, without leaving the command line.
+
+---
+
+## Analys Tool
+
+**What is missing from my site to be perfect?**
+
+### [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
+
+Lighthouse is an open-source, automated tool for improving the quality of web pages. 
