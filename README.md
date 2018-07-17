@@ -6,25 +6,38 @@ Here is a summary of the resources that are or have been useful to me.
 
 ## Table of Contents
 
-1. **[Wireframe](#Wirefram)**
-2. **[HTML](#html)**
-3. **[Webfonts](#webfonts)**
-4. **[CSS](#css)**
-5. **[Images](#images)**
-6. **[JavaScript](#javascript)**
-7. **[Security](#security)**
-8. **[Performance](#performance-1)**
-9. **[Accessibility](#accessibility)**
-10. **[SEO](#seo)**
-11. **[Translations](#translations)**
+1. **[Wireframe](#wirefram)**
+2. **[Color](#color)**
+3. **[Image Editor](#editor)**
+4. **[Free Images Library](#library)**
+5. **[Image Hosting](#hosting)**
 
 ---
 
 ## Wireframe
 
-*Applications that helped me to organize myself or organize various projects, whether alone or in a team.*
+*This is where I start.*
 
-### [Trello](https://trello.com/)
+### [Wireframe.cc](https://wireframe.cc/)
 
-Trello is the easy, free, flexible, and visual way to manage your projects and organize anything.
+A simple wireframing tool that doesn't get in your way. Create and share simple wireframes of websites and mobile apps.
+
+### [Balsamiq](https://balsamiq.com/)
+
+Balsamiq is a rapid wireframing tool that helps you Work Faster & Smarter. It reproduces the experience of sketching on a whiteboard, but using a computer.
+
+---
+
+## Color
+
+*When I hesitate which colors to combine or that I look for a certain atmosphere, these sites help me.*
+
+### [Coolors.co](https://coolors.co/)
+
+Generate perfect color combinations for your designs.
+
+### [Adobe Color CC](https://color.adobe.com/create/color-wheel/)
+
+Create color schemes with the color wheel or browse thousands of color combinations from the Kuler community.
+
 
