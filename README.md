@@ -16,7 +16,7 @@ Here is a summary of the resources that are or have been useful to me.
 
 ## Wireframe
 
-*This is where I start.*
+**This is where I start.**
 
 ### [Wireframe.cc](https://wireframe.cc/)
 
@@ -30,7 +30,7 @@ Balsamiq is a rapid wireframing tool that helps you Work Faster & Smarter. It re
 
 ## Color
 
-*When I hesitate which colors to combine or that I look for a certain atmosphere, these sites help me.*
+**When I hesitate which colors to combine or that I look for a certain atmosphere, these sites help me.**
 
 ### [Coolors.co](https://coolors.co/)
 
