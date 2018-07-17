@@ -6,7 +6,7 @@ Here is a summary of the resources that are or have been useful to me.
 
 ## Table of Contents
 
-1. **[Management](#management)**
+1. **[Wireframe](#Wirefram)**
 2. **[HTML](#html)**
 3. **[Webfonts](#webfonts)**
 4. **[CSS](#css)**
@@ -20,11 +20,11 @@ Here is a summary of the resources that are or have been useful to me.
 
 ---
 
-## Management
+## Wireframe
 
 *Applications that helped me to organize myself or organize various projects, whether alone or in a team.*
 
-### Trello
+### [Trello](https://trello.com/)
 
-[Trello](https://trello.com/): Trello is the easy, free, flexible, and visual way to manage your projects and organize anything.
+Trello is the easy, free, flexible, and visual way to manage your projects and organize anything.
 
