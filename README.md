@@ -35,7 +35,7 @@ Project boards on GitHub help you organize and prioritize your work. You can cre
 
 ----------
 
-Waffle
+Waffle.io
 -------------
 (https://waffle.io/)
 
@@ -69,6 +69,39 @@ Discord
 
 Step up your game with a modern voice & text chat app. Crystal clear voice, multiple server and channel support, mobile apps, and more.
 
+![Banner](https://i.imgur.com/Yr2oIlu.png)
+Markdown
+-------------
+*Editors, syntax, really useful.*
+![Banner](https://i.imgur.com/Yr2oIlu.png)
+
+StackEdit
+-------------
+(https://stackedit.io/editor)
+
+Full-featured, open-source Markdown editor based on PageDown, the Markdown library used by Stack Overflow and the other Stack Exchange sites.
+
+![Banner](https://i.imgur.com/Yr2oIlu.png)
+Color
+-------------
+*When I hesitate which colors to combine or that I look for a certain atmosphere, these sites help me.*
+![Banner](https://i.imgur.com/Yr2oIlu.png)
+
+Coolors.co
+-------------
+(https://coolors.co/)
+
+Generate perfect color combinations for your designs.
+
 ----------
+
+Adobe Color CC
+-------------
+(https://color.adobe.com/create/color-wheel/)
+
+Create color schemes with the color wheel or browse thousands of color combinations from the Kuler community.
+
+----------
+
 
 *To be continued...* 
