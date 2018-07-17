@@ -11,6 +11,13 @@ Here is a summary of the resources that are or have been useful to me.
 3. **[Editor](#editor)**
 4. **[Stock](#stock)**
 5. **[Uploader](#uploader)**
+6. **[Markdown](#markdown)**
+7. **[HTML](#html)**
+8. **[CSS](#css)**
+9. **[Resources](#resources)**
+10. **[Host](#host)**
+11. **[Test](#test)**
+12. **[Management](#management)**
 
 ---
 
@@ -71,3 +78,41 @@ Over 1.4 million royalty free stock photos and videos shared by our generous com
 ### [Unsplash](https://unsplash.com/)
 
 Beautiful, free images and photos that you can download and use for any project. 
+
+---
+
+## Uploader
+
+**If I have to host an image quickly, these sites are valuable to me.**
+
+### [Imgur](https://imgur.com/upload)
+
+Browse or drag images here.
+
+---
+
+## Markdown
+
+**Editors, syntax, really useful.**
+
+### [StackEdit](https://stackedit.io/editor)
+
+Full-featured, open-source Markdown editor based on PageDown, the Markdown library used by Stack Overflow and the other Stack Exchange sites.
+
+---
+
+## HTML
+
+**When I want to remember semantics.**
+
+*To fill.*
+
+---
+
+## CSS
+
+**Where I am most of the time, reading the framework docs or learning about keyframes.**
+
+### [Bootstrap](https://getbootstrap.com/)
+
+Bootstrap. Build responsive, mobile-first projects on the web with the world's most popular front-end component library. 
