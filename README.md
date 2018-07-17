@@ -52,11 +52,23 @@ Manage your GitHub Issues and Pull Requests across Multiple Repos in a Single Un
 ![Banner](https://i.imgur.com/Yr2oIlu.png)
 Communication
 -------------
-*Applications that helped me to organize myself or organize various projects, whether alone or in a team.*
+*When sometimes I can not solve a problem, asking others is always a solution.*
 ![Banner](https://i.imgur.com/Yr2oIlu.png)
 
-### [Trello](https://trello.com/)
+Ryver
+-------------
+(https://ryver.com/)
 
-Trello is the easy, free, flexible, and visual way to manage your projects and organize anything.
+Ryver offers world-class team communications plus a powerful team task manager. It's a single integrated solution.
+
+----------
+
+Discord
+-------------
+(https://discordapp.com/)
+
+Step up your game with a modern voice & text chat app. Crystal clear voice, multiple server and channel support, mobile apps, and more.
+
+----------
 
 *To be continued...* 
