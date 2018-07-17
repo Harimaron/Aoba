@@ -54,3 +54,20 @@ If you can think it, you can make it with Photoshop CC, the world’s best imagi
 
 Open and edit PSD, XCF, Sketch (Photoshop, Gimp and Sketch) or any other image files. 
 
+---
+
+## Stock
+
+**There is a ton of images on the internet, but the free images are here.**
+
+### [Pexels](https://www.pexels.com/)
+
+Free stock photos you can use everywhere. 
+
+### [Pixabay](https://pixabay.com/)
+
+Over 1.4 million royalty free stock photos and videos shared by our generous community. 
+
+### [Unsplash](https://unsplash.com/)
+
+Beautiful, free images and photos that you can download and use for any project. 
