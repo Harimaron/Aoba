@@ -17,19 +17,27 @@ Trello
 
 Trello is the easy, free, flexible, and visual way to manage your projects and organize anything.
 
-### [Google Keep](https://www.google.com/keep/)
+Google Keep
+-------------
+(https://www.google.com/keep/)
 
 Capture what's on your mind.
 
-### [GitHub Project Board](https://help.github.com/articles/creating-a-project-board/)
+GitHub Project Board
+-------------
+(https://help.github.com/articles/creating-a-project-board/)
 
 Project boards on GitHub help you organize and prioritize your work. You can create project boards for specific feature work, comprehensive roadmaps, or even release checklists. With project boards, you have the flexibility to create customized workflows that suit your needs.
 
-### [Waffle.io](https://waffle.io/)
+Waffle
+-------------
+(https://waffle.io/)
 
 Track your GitHub issues and pull requests with an automated workflow.
 
-### [Codetree](https://codetree.com/)
+Codetree
+-------------
+(https://codetree.com/)
 
 Manage your GitHub Issues and Pull Requests across Multiple Repos in a Single Unified View.
 
