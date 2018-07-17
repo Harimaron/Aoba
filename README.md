@@ -101,7 +101,26 @@ Adobe Color CC
 
 Create color schemes with the color wheel or browse thousands of color combinations from the Kuler community.
 
+![Banner](https://i.imgur.com/Yr2oIlu.png)
+Image Editor
+-------------
+*When it comes to changing the quality, color or size of an image, an editor is essential.*
+![Banner](https://i.imgur.com/Yr2oIlu.png)
+
+Adobe Photoshop
+-------------
+(https://www.adobe.com/products/photoshop.html)
+
+If you can think it, you can make it with Photoshop CC, the world’s best imaging and design app.
+
 ----------
+
+Photopea
+-------------
+(https://www.photopea.com/)
+
+Open and edit PSD, XCF, Sketch (Photoshop, Gimp and Sketch) or any other image files. I
+
 
 
 *To be continued...* 
