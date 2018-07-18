@@ -246,7 +246,7 @@ Get access to files anywhere through secure cloud storage and file backup for yo
 
 ## Career
 
-*Let's go!*
+*When I look for opportunities.*
 
 ### [Linkedin](https://www.linkedin.com/)
 
