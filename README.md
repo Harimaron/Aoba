@@ -38,6 +38,20 @@ Generate perfect color combinations for your designs.
 
 ---
 
+## Fonts
+
+*Sometimes I need a special font, this is where I look.*
+
+### [Adobe Edge Web Fonts](https://edgewebfonts.adobe.com/)
+
+The free, easy way to get started with web fonts.
+
+### [Google Fonts](https://fonts.google.com/)
+
+Making the web more beautiful, fast, and open through great typography.
+
+---
+
 ## Image Editor
 
 *When it comes to changing the quality, color or size of an image, an editor is essential.*
@@ -185,6 +199,10 @@ Web technology information profiler tool. Find out what a website is built with.
 ### [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
 
 Lighthouse is an open-source, automated tool for improving the quality of web pages. 
+
+### [SiteStacks](https://sitestacks.com/)
+
+Discover the tech stack for any website.
 
 ---
 
