@@ -208,6 +208,10 @@ Lighthouse is an open-source, automated tool for improving the quality of web pa
 
 Discover the tech stack for any website.
 
+### [Wappalyzer](https://www.wappalyzer.com/)
+
+Wappalyzer is a cross-platform utility that uncovers the technologies used on websites. 
+
 ---
 
 ## Management
