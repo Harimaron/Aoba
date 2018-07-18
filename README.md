@@ -18,6 +18,10 @@ Balsamiq is a rapid wireframing tool that helps you Work Faster & Smarter. It re
 
 A simple wireframing tool that doesn't get in your way. Create and share simple wireframes of websites and mobile apps.
 
+### [Google Web Designer](https://www.google.com/webdesigner/)
+
+Create engaging, interactive HTML5-based designs and motion graphics that can run on any device. 
+
 ---
 
 ## Color Picker
