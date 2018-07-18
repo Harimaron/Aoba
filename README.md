@@ -150,7 +150,7 @@ This is a book about JavaScript, programming, and the wonders of the digital.
 
 This is a guide that anyone could use to learn about the practice of front-end development.
 
-### [Front-End Developer Checklist](https://github.com/thedaviddias/Front-End-Checklist)
+### [The Front-End Checklist](https://frontendchecklist.io/)
 
 The Front-End Checklist is an exhaustive list of all elements you need to have.
 
