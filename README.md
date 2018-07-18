@@ -132,6 +132,16 @@ A lightweight and modular front-end framework for developing fast and powerful w
 
 ---
 
+## JavaScript
+
+*Because I can not avoid it.*
+
+### [Eloquent JavaScript](https://eloquentjavascript.net/)
+
+This is a book about JavaScript, programming, and the wonders of the digital.  
+
+---
+
 ## Resources
 
 *When I'm looking for something.*
