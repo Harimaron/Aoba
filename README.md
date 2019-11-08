@@ -54,6 +54,10 @@ The free, easy way to get started with web fonts.
 
 Making the web more beautiful, fast, and open through great typography.
 
+### [FontPair](https://fontpair.co/)
+
+Font Pair helps designers pair Google Fonts together. Beautiful Google Font combinations and pairs.
+
 ---
 
 ## Image Editor
@@ -152,6 +156,22 @@ A dead simple, responsive boilerplate.
 
 A lightweight and modular front-end framework for developing fast and powerful web interfaces. 
 
+### [Feather](https://feathericons.com/)
+
+Feather is a collection of simply beautiful open source icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency and readability.
+
+### [CSS Gradient](https://cssgradient.io/)
+
+As a free css gradient generator tool, this website lets you create a colorful gradient background for your website, blog, or social media profile.
+
+### [Easing Functions Cheat Sheet](https://easings.net/)
+
+Make animations more realistic by picking the right easing function.
+
+### [Flexbox Zombies](https://mastery.games/p/flexbox-zombies)
+
+Flexbox is incredibly powerful. But it's also crazy hard to learn well. So we all end up depending on a cheat sheet and some mad guessing in the dev tools.
+
 ---
 
 ## JavaScript
@@ -161,6 +181,10 @@ A lightweight and modular front-end framework for developing fast and powerful w
 ### [Eloquent JavaScript](https://eloquentjavascript.net/)
 
 This is a book about JavaScript, programming, and the wonders of the digital.  
+
+### [Practical JavaScript ](https://watchandcode.com/p/practical-javascript)
+
+Build a strong JavaScript foundation for web development.
 
 ---
 
